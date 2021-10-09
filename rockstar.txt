@@ -1,1 +1,7 @@
 patches.rockstargames.com
+gamedownloads.rockstargames.com
+gamedownloads-rockstargames.edgekey.net
+gamedownloads-rockstargames-com.akamaized.net
+prod.cloud.rockstargames.com
+prod.cloud.rockstargames.com.edgekey.net
+rgl.rockstargames.com
